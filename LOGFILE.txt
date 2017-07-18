@@ -1,0 +1,96 @@
+01:21.56 Starting...
+01:21.57 Fullscreen detected (1920x1080) - No Offsets
+01:21.57 E: ClientSize does not match:1920x1080[1280x768
+01:21.57 E: Client resolution deviates from resolution_settings.ini
+01:22.46 Starting...
+01:22.47 Fullscreen detected (1920x1080) - No Offsets
+01:22.47 ClientSize matches Resolution Settings.
+01:22.47 Detecting free inventory space
+01:22.48 Inventory closed
+01:22.58 70 empty slots
+01:22.58 Unidentified state
+01:22.58 Unidentified state (0s)
+01:22.58 Unidentified state (1s)
+01:22.59 Unidentified state (2s)
+01:23.00 Unidentified state (3s)
+01:23.01 Unidentified state (4s)
+01:23.02 Unidentified state (5s)
+01:23.03 Unidentified state (6s)
+01:23.04 Unidentified state (7s)
+01:23.05 Unidentified state (8s)
+01:23.06 Unidentified state (9s)
+01:23.07 Unidentified state (10s)
+01:23.08 Game connected: 1
+01:23.08 Unidentified state. Trying to equip fishingrod.
+01:23.11 Inventory closed
+01:23.14 Fishingrod equipped from position 0, 0
+01:23.18 Ready for fishing.
+01:23.18 Casting Fishingrod
+01:23.25 Pausing.
+01:23.25 Fishing stopped.
+17:14.52 Fullscreen detected (1280x768) - No Offsets
+17:14.52 Feeding Worker
+17:15.00 Feeding Worker CD: 90
+17:15.07 Fullscreen detected (1280x768) - No Offsets
+17:15.07 Feeding Worker
+17:15.17 Feeding Worker CD: 90
+17:16.23 Fullscreen detected (1280x768) - No Offsets
+17:16.23 Feeding Worker
+17:16.31 Feeding Worker CD: 90
+17:16.56 Fullscreen detected (1280x768) - No Offsets
+17:16.56 Feeding Worker
+17:17.04 Feeding Worker CD: 90
+17:19.43 Fullscreen detected (1280x768) - No Offsets
+17:19.43 Feeding Worker
+17:25.03 Fullscreen detected (1280x768) - No Offsets
+17:25.03 Feeding Worker
+17:25.11 Feeding Worker CD: 90
+17:33.05 Fullscreen detected (1280x768) - No Offsets
+17:33.05 Feeding Worker
+17:34.50 Fullscreen detected (1280x768) - No Offsets
+17:34.50 Feeding Worker
+17:34.58 Feeding Worker CD: 90
+17:36.15 Fullscreen detected (1280x768) - No Offsets
+17:36.15 Feeding Worker
+17:36.23 Feeding Worker CD: 90
+17:45.03 Fullscreen detected (1280x768) - No Offsets
+17:45.03 Feeding Worker
+17:44.00 Feeding Worker CD: 90
+18:04.12 Fullscreen detected (1280x768) - No Offsets
+18:04.12 Feeding Worker
+18:04.20 Feeding Worker CD: 90
+18:04.31 Fullscreen detected (1280x768) - No Offsets
+18:04.31 Feeding Worker
+18:05.20 Fullscreen detected (1280x768) - No Offsets
+18:05.20 Feeding Worker
+18:05.28 Feeding Worker CD: 90
+18:06.05 Fullscreen detected (1280x768) - No Offsets
+18:06.05 Feeding Worker
+18:06.13 Feeding Worker CD: 90
+18:06.19 Fullscreen detected (1280x768) - No Offsets
+18:06.19 Feeding Worker
+18:06.27 Feeding Worker CD: 90
+18:07.22 Fullscreen detected (1280x768) - No Offsets
+18:07.22 Feeding Worker
+18:07.30 Feeding Worker CD: 90
+18:07.35 Fullscreen detected (1280x768) - No Offsets
+18:07.35 Feeding Worker
+18:07.43 Feeding Worker CD: 90
+18:08.03 Fullscreen detected (1280x768) - No Offsets
+18:08.03 Feeding Worker
+18:08.11 Feeding Worker CD: 90
+18:08.56 Fullscreen detected (1280x768) - No Offsets
+18:08.56 Feeding Worker
+18:09.04 Feeding Worker CD: 90
+18:09.38 Fullscreen detected (1280x768) - No Offsets
+18:09.38 Feeding Worker
+18:09.46 Feeding Worker CD: 90
+18:10.28 Fullscreen detected (1280x768) - No Offsets
+18:10.28 Feeding Worker
+18:10.36 Feeding Worker CD: 90
+18:10.40 Fullscreen detected (1280x768) - No Offsets
+18:10.40 Feeding Worker
+18:10.48 Feeding Worker CD: 90
+18:11.41 Fullscreen detected (1280x768) - No Offsets
+18:11.41 Feeding Worker
+18:11.49 Feeding Worker CD: 90
